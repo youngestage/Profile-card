@@ -1,2 +1,2 @@
 # Profile-card
-Simple HTML, CSS and JavaScript
+Simple Profile card created with HTML, CSS and JavaScript
